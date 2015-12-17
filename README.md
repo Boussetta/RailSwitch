@@ -23,3 +23,5 @@ where it stops.
     ”Tr2” go back to ”A2” in where it stops. ”switch 1” is disabled when ”Tr2” exits the ”zone 4”.
 
 •  ”Tr1” is prior in the case where the two trains reaches ”B1” and ”B2” at the same time.
+
+A demonstration video is available at https://www.youtube.com/watch?v=Kn3zfOu2WCo
